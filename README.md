@@ -21,5 +21,6 @@ I’m comfortable with **Python**, **JavaScript**, **HTML**, and **CSS**. I use 
 
 ---
 **Feel free to reach out if you want to collaborate or just talk tech!**
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">](https://instagram.com/YourUsername)
+
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/_ahmad_shamli_?igsh=ZjM4dGU3YmNzY3N4)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">](mailto:ahmad.shamli1122@gmail.com)
